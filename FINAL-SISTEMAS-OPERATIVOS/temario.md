@@ -3,7 +3,7 @@
 ![](https://blog.desdelinux.net/wp-content/uploads/2019/11/sistemas-operativos-usuarios-imagen-destacada-blog-desdelinux.png)
 | modalidad | carga horaria semanal | carga horaria total | horarios de clase |
 | ------------- | --------------------- | ------------------- | ---------------------------------------------------------------------- |
-| cuatrimestral | 90 hs | 6 hs | T Viernes 16:30 a 18:30hs AULA 11 - TP Martes 17:00 a 21:00 hs AULA 17 |
+| cuatrimestral | 6 hs | 90 hs | T Viernes 16:30 a 18:30hs AULA 11 - TP Martes 17:00 a 21:00 hs AULA 17 |
 
 ## TEMARIO
 
